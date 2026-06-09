@@ -1,5 +1,5 @@
 # No-More-Ruff-Data
-I transformed a synthetic, warehouse-scale dataset of 2,080 pet products into a clean, analysis-ready resource. Using advanced filtering, logical formulas, and text cleaning, I normalized inconsistent attributes—like grain-free status and weights bridging the gap between messy web-scraped data and actionable supply chain insights.
+I transformed a synthetic, warehouse-scale dataset of 2,080 pet products into a clean, analysis-ready resource. Using advanced filtering, logical formulas, and text cleaning, I normalized inconsistent attributes—like grain-free status and weights bridging the gap between messy data and actionable supply chain insights.
 
 ## Before
 <img width="1056" height="622" alt="image" src="https://github.com/user-attachments/assets/68764c7b-752e-4f98-85bf-8feb5b326dcc" />
